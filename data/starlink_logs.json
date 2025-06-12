@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2025-06-11T09:32:00Z",
+    "seat": "12A",
+    "latency_ms": 480,
+    "buffering_events": 4,
+    "packet_loss": 1.2,
+    "bandwidth_used_mb": 7.5,
+    "connection_status": "stable"
+  },
+  {
+    "timestamp": "2025-06-11T09:32:10Z",
+    "seat": "12B",
+    "latency_ms": 720,
+    "buffering_events": 9,
+    "packet_loss": 3.5,
+    "bandwidth_used_mb": 2.1,
+    "connection_status": "unstable"
+  },
+  {
+    "timestamp": "2025-06-11T09:32:20Z",
+    "seat": "13C",
+    "latency_ms": 130,
+    "buffering_events": 1,
+    "packet_loss": 0.4,
+    "bandwidth_used_mb": 9.8,
+    "connection_status": "stable"
+  },
+  {
+    "timestamp": "2025-06-11T09:32:30Z",
+    "seat": "14D",
+    "latency_ms": 620,
+    "buffering_events": 7,
+    "packet_loss": 2.9,
+    "bandwidth_used_mb": 3.6,
+    "connection_status": "intermittent"
+  },
+  {
+    "timestamp": "2025-06-11T09:32:40Z",
+    "seat": "15A",
+    "latency_ms": 90,
+    "buffering_events": 0,
+    "packet_loss": 0.0,
+    "bandwidth_used_mb": 12.3,
+    "connection_status": "excellent"
+  },
+  {
+    "timestamp": "2025-06-11T09:32:50Z",
+    "seat": "15B",
+    "latency_ms": 100,
+    "buffering_events": 1,
+    "packet_loss": 0.1,
+    "bandwidth_used_mb": 11.7,
+    "connection_status": "stable"
+  },
+  {
+    "timestamp": "2025-06-11T09:33:00Z",
+    "seat": "16C",
+    "latency_ms": 850,
+    "buffering_events": 10,
+    "packet_loss": 5.0,
+    "bandwidth_used_mb": 2.5,
+    "connection_status": "unstable"
+  },
+  {
+    "timestamp": "2025-06-11T09:33:10Z",
+    "seat": "16D",
+    "latency_ms": 620,
+    "buffering_events": 8,
+    "packet_loss": 3.1,
+    "bandwidth_used_mb": 3.0,
+    "connection_status": "intermittent"
+  },
+  {
+    "timestamp": "2025-06-11T09:33:20Z",
+    "seat": "17A",
+    "latency_ms": 310,
+    "buffering_events": 2,
+    "packet_loss": 1.1,
+    "bandwidth_used_mb": 6.4,
+    "connection_status": "stable"
+  },
+  {
+    "timestamp": "2025-06-11T09:33:30Z",
+    "seat": "17B",
+    "latency_ms": 780,
+    "buffering_events": 10,
+    "packet_loss": 4.3,
+    "bandwidth_used_mb": 2.0,
+    "connection_status": "unstable"
+  }
+]

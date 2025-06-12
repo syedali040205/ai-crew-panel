@@ -1,0 +1,82 @@
+[
+  {
+    "seat": "12A",
+    "name": "Sara",
+    "age": 28,
+    "watching": "The Batman",
+    "watch_time": 12,
+    "preferences": ["action", "snacks"]
+  },
+  {
+    "seat": "12B",
+    "name": "Ali",
+    "age": 35,
+    "watching": "Dune",
+    "watch_time": 5,
+    "preferences": ["sci-fi", "coffee"]
+  },
+  {
+    "seat": "13C",
+    "name": "Amir",
+    "age": 41,
+    "watching": "Formula 1: Drive to Survive",
+    "watch_time": 40,
+    "preferences": ["sports", "tea"]
+  },
+  {
+    "seat": "14D",
+    "name": "Lina",
+    "age": 24,
+    "watching": "Frozen II",
+    "watch_time": 3,
+    "preferences": ["animation", "hot chocolate"]
+  },
+  {
+    "seat": "15A",
+    "name": "Jason",
+    "age": 52,
+    "watching": "Top Gun: Maverick",
+    "watch_time": 18,
+    "preferences": ["action", "whiskey"]
+  },
+  {
+    "seat": "15B",
+    "name": "Maria",
+    "age": 30,
+    "watching": "The Crown",
+    "watch_time": 25,
+    "preferences": ["drama", "wine"]
+  },
+  {
+    "seat": "16C",
+    "name": "Akash",
+    "age": 19,
+    "watching": "Attack on Titan",
+    "watch_time": 50,
+    "preferences": ["anime", "instant noodles"]
+  },
+  {
+    "seat": "16D",
+    "name": "Emily",
+    "age": 34,
+    "watching": "Inside Out",
+    "watch_time": 7,
+    "preferences": ["family", "juice"]
+  },
+  {
+    "seat": "17A",
+    "name": "Victor",
+    "age": 45,
+    "watching": "Elon Musk Documentary",
+    "watch_time": 15,
+    "preferences": ["technology", "sparkling water"]
+  },
+  {
+    "seat": "17B",
+    "name": "Chen",
+    "age": 26,
+    "watching": "Interstellar",
+    "watch_time": 33,
+    "preferences": ["space", "green tea"]
+  }
+]

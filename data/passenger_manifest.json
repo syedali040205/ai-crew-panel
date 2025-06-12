@@ -1,0 +1,82 @@
+[
+  {
+    "seat": "12A",
+    "name": "Sara",
+    "ticket_class": "Business",
+    "special_assistance": false,
+    "group_id": "G1",
+    "frequent_flyer_status": "Silver"
+  },
+  {
+    "seat": "12B",
+    "name": "Ali",
+    "ticket_class": "Business",
+    "special_assistance": false,
+    "group_id": "G1",
+    "frequent_flyer_status": "Platinum"
+  },
+  {
+    "seat": "13C",
+    "name": "Amir",
+    "ticket_class": "Business",
+    "special_assistance": true,
+    "group_id": "G2",
+    "frequent_flyer_status": "Gold"
+  },
+  {
+    "seat": "14D",
+    "name": "Lina",
+    "ticket_class": "Economy",
+    "special_assistance": false,
+    "group_id": "G3",
+    "frequent_flyer_status": "None"
+  },
+  {
+    "seat": "15A",
+    "name": "Jason",
+    "ticket_class": "First",
+    "special_assistance": false,
+    "group_id": "G4",
+    "frequent_flyer_status": "Gold"
+  },
+  {
+    "seat": "15B",
+    "name": "Maria",
+    "ticket_class": "First",
+    "special_assistance": false,
+    "group_id": "G4",
+    "frequent_flyer_status": "Gold"
+  },
+  {
+    "seat": "16C",
+    "name": "Akash",
+    "ticket_class": "Economy",
+    "special_assistance": false,
+    "group_id": "G5",
+    "frequent_flyer_status": "Student"
+  },
+  {
+    "seat": "16D",
+    "name": "Emily",
+    "ticket_class": "Economy",
+    "special_assistance": true,
+    "group_id": "G6",
+    "frequent_flyer_status": "Silver"
+  },
+  {
+    "seat": "17A",
+    "name": "Victor",
+    "ticket_class": "Business",
+    "special_assistance": false,
+    "group_id": "G7",
+    "frequent_flyer_status": "None"
+  },
+  {
+    "seat": "17B",
+    "name": "Chen",
+    "ticket_class": "Business",
+    "special_assistance": false,
+    "group_id": "G7",
+    "frequent_flyer_status": "Bronze"
+  }
+]
