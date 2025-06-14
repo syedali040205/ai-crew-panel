@@ -4,3 +4,4 @@ langchain
 folium
 python-dotenv
 streamlit_folium
+langchain_openai
